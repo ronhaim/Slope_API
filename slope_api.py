@@ -1,6 +1,6 @@
 import requests
 import urllib3
-#comitted
+#my second commit
 
 class SlopeApi:
     api_url = "https://api.slopesoftware.com/api/v1"
